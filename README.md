@@ -1,3 +1,3 @@
-# Sone Movie App 2021
+# Song Movie App 2021
 
 React JS - my first project 
